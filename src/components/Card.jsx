@@ -30,7 +30,7 @@ function Card(props) {
                     It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock</p>
                 </div>
             </div>
-
+            
             {
                 list.map((listItem, index) =>(
                     <BrainAreaList 
